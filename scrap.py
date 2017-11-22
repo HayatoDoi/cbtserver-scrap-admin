@@ -6,7 +6,6 @@ import threading
 import urllib
 from datetime import datetime
 from selenium import webdriver
-from selenium.webdriver.chrome.options import Options
 
 domain = 'localhost'
 b64_user = 'admin'
